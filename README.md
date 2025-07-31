@@ -39,6 +39,6 @@ Model bir CNN mimarisi ile eğitildi. Veri artırma teknikleri (augmentation) ku
 
 ## Uygulama Test
 
-<img src="images/sonuc_1.png" width=350 height=350>
-<img src="images/sonuc_2.png" width=350 height=350>
-<img src="images/sonuc_3.png" width=350 height=350>
+<img src="imgs/sonuc_1.png" width=350 height=350>
+<img src="imgs/sonuc_2.png" width=350 height=350>
+<img src="imgs/sonuc_3.png" width=350 height=350>
